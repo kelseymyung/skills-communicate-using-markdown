@@ -18,6 +18,10 @@ $ git init
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 
 
@@ -34,3 +38,4 @@ var myVar = "Hello, world!";
 Tried out different header levels using markdown
 Added image with descriptive text
 Added two different code block types
+Added task list
