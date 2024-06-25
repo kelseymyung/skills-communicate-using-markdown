@@ -9,6 +9,14 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+```
+Code block 1 example
+$ git init
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
@@ -22,5 +30,7 @@
 
 
 
-Trying out different header levels using markdown
+
+Tried out different header levels using markdown
 Added image with descriptive text
+Added two different code block types
